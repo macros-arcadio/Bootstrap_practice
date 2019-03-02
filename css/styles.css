@@ -1,11 +1,22 @@
 #title {
   background-color: #ff4c68;
 }
+.text2{
+  font-family: "Montserrat";
+  
+}
 
 .text1{
-  font-family: "Montserrat";
-  font-size: 2rem;
+  font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+  font-size: 4rem;
+  padding: 20% 1% 1% 1%;
+  color: #FFFFFF;
 }
 .container-fluid{
   padding: 3% 15%;
+}
+.imgtelefono{
+  padding: 10% 5%;
 }
