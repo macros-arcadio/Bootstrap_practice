@@ -13,7 +13,7 @@
   font-weight: 400;
   font-size: 4rem;
   padding: 20% 1% 1% 1%;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .container-fluid {
@@ -25,8 +25,28 @@
 }
 
 /* Features */
-#features{
-  text-align:  center;
-  color: #ffffff;
+#features {
+  text-align: center;
+  color: #ff4c68;
   font-family: "Ubuntu";
+  padding: 7% 12%;
+}
+
+.Monse {
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+}
+
+.Monse2 {
+  color: #4c5039;
+}
+
+/* Testimonials */
+#testimonials {
+  padding: 7% 12%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #ffffff;
+  font-style: "Montserrat";
+  font-size: 5rem;
 }
