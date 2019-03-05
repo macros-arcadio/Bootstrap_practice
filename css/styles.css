@@ -72,6 +72,7 @@ h2{
 }
 .carousel-item{
     height: 400px;
+    style: 30%;
 }
 .car1{
   background-color: #9e2222;
@@ -79,6 +80,7 @@ h2{
 
 .car2{
   background-color: #45962d;
+  width: 30%;
 }
 .car3{
   background-color: #1c7477;
