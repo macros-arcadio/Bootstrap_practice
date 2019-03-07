@@ -16,20 +16,27 @@
   color: #ffffff;
 }
 
+.imgtelefono {}
+
 .container-fluid {
   padding: 3% 15%;
 }
 
 .imgtelefono {
   padding: 10% 5%;
+  position: absolute;
+  z-index: 1;
 }
 
 /* Features */
 #features {
   text-align: center;
-  color: #ff4c68;
+  color: #ff4d4d;
+  background-color: #ffffff;
   font-family: "Ubuntu";
   padding: 7% 12%;
+  position: relative;
+  z-index: 2;
 }
 
 .Monse {
@@ -49,47 +56,57 @@
   color: #ffffff;
   font-style: "Montserrat";
   font-size: 1rem;
+  position: relative;
+  z-index: 2;
 }
-h2{
+
+h2 {
   font-style: "Montserrat-bold";
   padding: 7% 12%;
   font-size: 3rem;
 }
+
 .imagen-testimonio-perro {
   width: 20%;
   border-radius: 50%;
   margin: 20px;
 }
+
 /* Press-Section */
-#press{
+#press {
   padding: 7% 12%;
   background-color: #ff4c68;
   text-align: center;
 }
-.imagenes3{
+
+.imagenes3 {
   width: 15%;
-  margin:20px 20px 15px;
+  margin: 20px 20px 15px;
 }
-.carousel-item{
-    height: 400px;
-    style: 30%;
+
+.carousel-item {
+  height: 400px;
+  style: 30%;
 }
-.car1{
+
+.car1 {
   background-color: #9e2222;
 }
 
-.car2{
+.car2 {
   background-color: #45962d;
   width: 30%;
 }
-.car3{
+
+.car3 {
   background-color: #1c7477;
 }
-/* Pricing */
 
-.card-deck{
+/* Pricing */
+.card-deck {
   padding: 5% 5%;
 }
-#titulos{
+
+#titulos {
   text-align: center;
 }
