@@ -85,3 +85,11 @@ h2{
 .car3{
   background-color: #1c7477;
 }
+/* Pricing */
+
+.card-deck{
+  padding: 5% 5%;
+}
+#titulos{
+  text-align: center;
+}
