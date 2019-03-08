@@ -14,6 +14,7 @@
   font-size: 4rem;
   padding: 20% 1% 1% 1%;
   color: #ffffff;
+  line-height: 1.4;
 }
 
 .imgtelefono {}
@@ -109,4 +110,21 @@ h2 {
 
 #titulos {
   text-align: center;
+}
+
+/* Call to action */
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 3%;
+}
+
+h3 {
+  font-style: "Montserrat";
+  font-size: 3rem;
+}
+
+.boton1 {
+  text-align: center;
+  margin: 2% 2%;
 }
